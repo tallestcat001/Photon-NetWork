@@ -15,10 +15,10 @@ MonoBehaviour:
   DevAccountEmail: shdmlgus123@gmail.com
   DevAccountToken: f3tx6a6egpktk7m7q614w83o636u8n396ysxou4kx6y4r7581px9myam9e1wkstreth1ob7z7fiue1wmzocm3qtrb37967hkzhq4nojpnj95tstokqepznm9o4fjm661mp3373stp6uhksabfcngbhcdzhuwhygqfiry77738nksmoex3uag7n5pbmac857w9uhhake8
   AadAuthorization: 
-  SelectedStudio: 
-  SdkPath: 
+  SelectedStudio: Game Studio
+  SdkPath: Assets/PlayFabSDK
   EdExPath: 
   LocalCloudScriptPath: 
-  PanelIsShown: 1
-  curMainMenuIdx: 0
+  PanelIsShown: 0
+  curMainMenuIdx: 1
   curSubMenuIdx: 0
